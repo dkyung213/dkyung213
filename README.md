@@ -4,12 +4,12 @@
 
 
 ### <div align="center">I'm Dokyung Kim. 👨‍💻 I'm student 🚀</div>  
-
+<!--
 
 - 🔭 I manage [my website](https://dkyung213.kr)   
 
 
-- 🌱 I’m currently learning [my skills](#my-skills)
+- 🌱 I’m currently learning [my skills](#my-skills) -->
 
 
 <br/>  
@@ -28,7 +28,6 @@
 <img style="margin: 10px" src="https://dkyung213.kr/assets/readme/firebase.png" alt="Firebase" height="50" />  
 </div>  
 
-<br/>  
 
 <br/>  
 
@@ -47,6 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dkyung213&theme=dark&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkyung213&theme=dark&hide_border=true&layout=compact" align="left" />
 <br />
+-->
