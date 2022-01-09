@@ -43,10 +43,10 @@
 <br/>  
 
 
-## GitHub status  
-<img src="https://github-readme-stats.vercel.app/api?username=dkyung213&show_icons=true&count_private=true&hide_border=true" align="left" />  
+## GitHub stats
+<img src="https://github-readme-stats.vercel.app/api?username=dkyung213&theme=dark&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkyung213&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkyung213&theme=dark&hide_border=true&layout=compact" align="left" />
 <br />
