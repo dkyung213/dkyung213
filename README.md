@@ -9,7 +9,7 @@
   - 🔭 I manage [my website](https://dkyung213.kr)   
     
   
-  - 🌱 I’m currently learning my skills 
+  - 🌱 I’m currently learning [my skills](#my-skills)
     
   
   <br/>  
