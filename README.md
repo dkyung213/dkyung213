@@ -35,8 +35,3 @@
 
 ## GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=dkyung213&theme=dark&show_icons=true&count_private=true&hide_border=true" align="left" /> 
-<br /><br /><br /><br /><br /><br /><br /><br />
-
-
----
-Edited by Dokyung Kim
