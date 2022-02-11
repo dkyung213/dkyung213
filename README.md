@@ -4,12 +4,7 @@
 
 
 ### <div align="center">I'm Dokyung Kim. 👨‍💻 I'm student 🚀</div>  
-<!--
 
-- 🔭 I manage [my website](https://dkyung213.kr)   
-
-
-- 🌱 I’m currently learning [my skills](#my-skills) -->
 
 
 ## My skills  
