@@ -1,32 +1,18 @@
-<div align="center">
-  <img src="//cdn1.dkyung213.kr/github/readme/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# 👻 WELCOME TO Dokyung's GitHub 🎉
+
+I'm Dokyung Kim who is a student!
+
+---
+
+### 👩🏻‍💻Front-End tech stack🛠
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp;
 
 
-### <div align="center">I'm Dokyung Kim. 👨‍💻 I'm student 🚀</div>  
-
-
-
-## My skills  
-<div align="center">  
-<img style="margin: 10px" src="//cdn1.dkyung213.kr/github/readme/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="//cdn1.dkyung213.kr/github/readme/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="//cdn1.dkyung213.kr/github/readme/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="//cdn1.dkyung213.kr/github/readme/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="//cdn1.dkyung213.kr/github/readme/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="//cdn1.dkyung213.kr/github/readme/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="//cdn1.dkyung213.kr/github/readme/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="//cdn1.dkyung213.kr/github/readme/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="//cdn1.dkyung213.kr/github/readme/firebase.png" alt="Firebase" height="50" />  
-</div>  
-
-
-## Connect with me  
-- [Instagram](//l.dkyung213.kr/instagram)  
-
-
-- [GitHub](//l.dkyung213.kr/github)  
-
-
-## GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=dkyung213&theme=dark&show_icons=true&count_private=true&hide_border=true" align="left" /> 
+### 👩🏻‍💻Back-End tech stack🛠
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Expo-%23000020?style=flat-square&logo=Expo&logoColor=white"/></a>&nbsp;
