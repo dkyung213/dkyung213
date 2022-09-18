@@ -7,7 +7,7 @@ I'm Dokyung Kim who is a student and manage [DKYUNG213](//www.dkyung213.kr)!
 ### 👨🏻‍💻My GitHub stats🛠
 
 [![Dokyung Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkyung213&count_private=true&show_icons=true&theme=radical)](http://www.dkyung213.kr/)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkyung213)](http://dkyung213.kr/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkyung213)](http://www.dkyung213.kr/)
 
 
 
